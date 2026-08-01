@@ -74,7 +74,7 @@ Example response | Javob namunasi:
   {
     "id": 3,
     "name": "Firdavs Shuxdatov",
-    "email": "firdavs.shuxdatov@gmail.com"
+    "email": "firdavs.shuxratov@gmail.com"
   }
 ]
 ```
