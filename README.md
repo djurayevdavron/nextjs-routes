@@ -73,7 +73,7 @@ Example response | Javob namunasi:
   },
   {
     "id": 3,
-    "name": "Firdavs Shuxdatov",
+    "name": "Firdavs Shuxratov",
     "email": "firdavs.shuxratov@gmail.com"
   }
 ]
