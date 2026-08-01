@@ -117,14 +117,14 @@ Response | Javob:
 
 ```json
 {
-  "message": "User not found"
+  "message": "Bunday foydalanuvchi topilmadi!"
 }
 ```
 
 Status | Holat:
 
 ```text
-404 Not Found
+404 Bunday foydalanuvchi topilmadi!
 ```
 
 ---
